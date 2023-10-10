@@ -1,0 +1,33 @@
+NOTE: ALL OF THESE PACKAGES ARE TESTED UNDER PYTHON 3.11.3. THERE IS NO GUARENTEE OF THESE PACKAGES WILL WORK ON A DIFFERENT VERSION OF PYTHON
+
+tensorflow @ 2.13
+tflite
+fire
+pandas
+librosa
+lxml
+neural-structured-learning
+numba
+numpy
+scann
+sentencepiece
+tfa-nightly
+tensorflow-datasets
+tensorflow-model-optimization
+tf-models-offical
+tflite-support
+matplotlib
+tensorflow-hub
+tensorflowjs
+urllib3
+gin-config==0.1.1
+immutabledict
+google-api-python-client
+kaggle
+oauth2client
+opencv-python-headless
+py-cpuinf
+pycocotools
+sacrebleu
+seqeval
+tf-slim

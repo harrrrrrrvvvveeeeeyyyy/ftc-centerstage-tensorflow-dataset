@@ -1,0 +1,5 @@
+SUBJECT			START DATE		END DATE (ETA)		CURRENT STATUS
+
+image classification	10/2/23			10/10/23		finished
+
+object detection	10/5/23			unspesified		Hardly anything is done 
